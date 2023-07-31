@@ -13,3 +13,4 @@ int main(void)
 
 printf("Size of a char: %1u byte(s)\n", (unsigned long)
 sizeof(a));
+}
